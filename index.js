@@ -1,6 +1,6 @@
 // write your code below!
 var name = you
-function happyHolidays(){
+function happyHolidays(String){
   return "Happy holidays!"
 }
 
