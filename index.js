@@ -6,6 +6,5 @@ function happyHolidays(string){
 
 function happyHolidaysTo(name)
 {
-  var name = "Bob"
   return ("Happy holidays,"+($[name])); 
 }
