@@ -1,10 +1,11 @@
 // write your code below!
-var name = "Bob"
+
 function happyHolidays(string){
   return "Happy holidays!"
 }
 
 function happyHolidaysTo(name)
 {
+  var name = "Bob"
   return ("Happy holidays,"+($[name])); 
 }
